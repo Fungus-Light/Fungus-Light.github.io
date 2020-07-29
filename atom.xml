@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://github.com/fungus-light.github.io</id>
+    <id>https://https://fungus-light.github.io</id>
     <title>Fungus-Light 个人站</title>
-    <updated>2020-07-29T06:29:17.958Z</updated>
+    <updated>2020-07-29T06:30:21.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://github.com/fungus-light.github.io"/>
-    <link rel="self" href="https://https://github.com/fungus-light.github.io/atom.xml"/>
+    <link rel="alternate" href="https://https://fungus-light.github.io"/>
+    <link rel="self" href="https://https://fungus-light.github.io/atom.xml"/>
     <subtitle>程序、音乐、游戏。。。。。。</subtitle>
-    <logo>https://https://github.com/fungus-light.github.io/images/avatar.png</logo>
-    <icon>https://https://github.com/fungus-light.github.io/favicon.ico</icon>
+    <logo>https://https://fungus-light.github.io/images/avatar.png</logo>
+    <icon>https://https://fungus-light.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Fungus-Light 个人站</rights>
 </feed>
