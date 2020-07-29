@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fungus-light.github.io</id>
     <title>Fungus-Light 个人站</title>
-    <updated>2020-07-29T06:38:06.703Z</updated>
+    <updated>2020-07-29T06:44:31.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fungus-light.github.io"/>
     <link rel="self" href="https://fungus-light.github.io/atom.xml"/>
@@ -10,4 +10,20 @@
     <logo>https://fungus-light.github.io/images/avatar.png</logo>
     <icon>https://fungus-light.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Fungus-Light 个人站</rights>
+    <entry>
+        <title type="html"><![CDATA[我的项目]]></title>
+        <id>https://fungus-light.github.io/post/project/</id>
+        <link href="https://fungus-light.github.io/post/project/">
+        </link>
+        <updated>2020-07-29T06:13:21.000Z</updated>
+        <content type="html"><![CDATA[<p>以下是我做过或者正在做的一些项目：</p>
+<ul>
+<li><strong>Prismriver</strong></li>
+</ul>
+<p>一个随机音乐旋律生成网站，可以导出midi文件。<br>
+项目名称来源于东方Project角色，骚灵三姐妹。<br>
+在线查看：<a href="https://fungus-light.github.io/Prismriver/">Prismriver</a><br>
+源代码：<a href="https://github.com/Fungus-Light/Prismriver">Prismriver On Github</a></p>
+]]></content>
+    </entry>
 </feed>
