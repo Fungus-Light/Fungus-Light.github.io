@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fungus-light.github.io</id>
     <title>Fungus-Light 个人站</title>
-    <updated>2020-07-29T07:02:43.336Z</updated>
+    <updated>2021-06-11T08:56:44.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fungus-light.github.io"/>
     <link rel="self" href="https://fungus-light.github.io/atom.xml"/>
     <subtitle>程序、音乐、游戏。。。。。。</subtitle>
     <logo>https://fungus-light.github.io/images/avatar.png</logo>
     <icon>https://fungus-light.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Fungus-Light 个人站</rights>
+    <rights>All rights reserved 2021, Fungus-Light 个人站</rights>
     <entry>
         <title type="html"><![CDATA[我的项目]]></title>
         <id>https://fungus-light.github.io/post/project/</id>
@@ -17,6 +17,12 @@
         </link>
         <updated>2020-07-29T06:13:21.000Z</updated>
         <content type="html"><![CDATA[<p>以下是我做过或者正在做的一些项目：</p>
+<ul>
+<li><strong>Black-Rabbit-Pro</strong></li>
+</ul>
+<p>适合新手的，功能完备的游戏开发框架。为强叙事游戏特别增强。<br>
+在线查看：<a href="https://fungus-light.github.io/Black-Rabbit-Pro/">文档</a><br>
+源代码：<a href="https://github.com/Fungus-Light/Black-Rabbit-Pro">Black-Rabbit-Pro On Github</a></p>
 <ul>
 <li><strong>Prismriver</strong></li>
 </ul>
